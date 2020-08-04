@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Jeff
+subtitle: The Art and Science of Data  
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I like to investigate data. I have always been intrigued by what can be learned from deep multi-faceted analysis of data. Data outputs are everywhere. They could be from a specific business process, a transactional technology platform, an environmental sensors, or a subjective survey of something like medication response. I am also an avid technologist. I have forever been an early adopter of new technologies and more interested how new hardware or software can provide efficiency through automation.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+During a 20+ year career consulting for Fortune 500 organizations, I led countless analysis efforts using Data including:
+- Business Case Development
+- Financial Modeling
+- Business Unit & Corporate P&L Budgeting
+- Marketing Analytics
+- Sales Forecasting
+- Resource Growth models
 
 ### my history
 
