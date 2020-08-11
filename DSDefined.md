@@ -36,13 +36,12 @@ Companies typically use data in 3 ways with varying levels of maturity.
 
 #### Decision Science
 
-Decision Science turns a company’s raw data into information that helps the company to **make decisions**. This work relies on having a deep understanding of different **mathematical and statistical methods** and a familiarity with business decision-making. Furthermore, due to their complexity, analyses from Decision Science require compelling visualizations and tables to facilitate their understanding by non-technical audiences. While a decision scientist does plenty of programming, their work generally only gets run once to make a particular analysis. 
-
-_Experience and knowledge needed:_ 
-- Data cleaning: high
-- Data transformation: high
-- Data visualization: low
-- Statistics: high
-- Programming: high
-- Technical Engineering; none
-- Domain knowledge: necessary 
+> Decision Science turns a company’s raw data into information that helps the company to **make decisions**. This work relies on having a deep understanding of different **mathematical and statistical methods** and a familiarity with business decision-making. Furthermore, due to their complexity, analyses from Decision Science require compelling visualizations and tables to facilitate their understanding by non-technical audiences. While a decision scientist does plenty of programming, their work generally only gets run once to make a particular analysis. 
+>_Experience and knowledge needed:_ 
+>- Data cleaning: high
+>- Data transformation: high
+>- Data visualization: low
+>- Statistics: high
+>- Programming: high
+>- Technical Engineering; none
+>- Domain knowledge: necessary 
