@@ -20,7 +20,6 @@ Companies typically use data in 3 ways with varying levels of maturity.
 <hr>
 
 
-
 #### Machine Learning
 
 Machine Learning is a product of DataScience that develops and refines **models**, and puts them in production, where they will run continuously. They work on building and improving **algorithms** for things like search results of an e-commerce site, optimizing a recommendation system, or estimating prices based on continuously flowing data.  Machine Learning engineers do not spend time on things like creating visualizations, but rather doing the  programming work of data science to build and enhance **models**.
@@ -34,7 +33,6 @@ _Experience and knowledge needed:_
 - Technical Engineering: high
 - Domain knowledge: necessary 
 <hr>
-
 
 
 #### Decision Science
