@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What is DataScience?
-subtitle: What I've learned about how companies use data
+title: What I've learned about how companies use data
+subtitle: The broad definition of Data Science
 ---
 
 Companies typically use data in 3 ways with varying levels of maturity.
