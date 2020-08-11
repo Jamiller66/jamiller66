@@ -9,7 +9,8 @@ Companies typically use data in 3 ways with varying levels of maturity.
 #### Business Intelligence
 Business Intelligence is a product of Data Analytics that encompasses **consistently** getting the **right** data to the **right** business leaders in a format that facilitates efficient **interpretation** for their business needs.  It is taking data created *within* the company, cleaning it, formatting and arranging it effectively and delivering it where it is needed.
 
-_Experience and knowledge needed:_- Data cleaning: minimal
+_Experience and knowledge needed:_
+- Data cleaning: minimal
 - Data transformation: high
 - Data visualization: high
 - Statistics: minimal
