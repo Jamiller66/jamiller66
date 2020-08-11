@@ -19,6 +19,7 @@ Companies typically use data in 3 ways with varying levels of maturity.
 >- Technical Engineering: none
 >- Domain knowledge: helpful
 <hr>
+<br>
 
 #### Machine Learning
 
