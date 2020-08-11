@@ -24,7 +24,7 @@ _Experience and knowledge needed:_
 
 Machine Learning is a product of DataScience that develops and refines **models**, and puts them in production, where they will run continuously. They work on building and improving **algorithms** for things like search results of an e-commerce site, optimizing a recommendation system, or estimating prices based on continuously flowing data.  Machine Learning engineers do not spend time on things like creating visualizations, but rather doing the  programming work of data science to build and enhance **models**.
 
-_Experience and knowledge needed:_ 
+_Experience and knowledge needed:_    
 - Data cleaning: high
 - Data transformation: high
 - Data visualization: low
