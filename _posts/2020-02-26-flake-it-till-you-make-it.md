@@ -8,7 +8,10 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+On March 18th 2020, California Governor Gavin Newsom declared that his **model** indicated that 56% of California’s population, or 25.5 million people, would be infected with COVID-19 over the next eight-week period. While the numbers (fortunately) did not meet the forecast of his **model**, the doomsday headline no doubt contributed to fear, unease and restlessness from California citizens. And it is easy to see why.  Let's assume (for arguments sake) the average citizen reads that headline. I believe he or she is likely thinking two things;
+1. Government agencies have well-trained statisticians and real-time access to comprehensive data on cases, hosptializations and deaths. 
+2. The govenment wants use this data for decision making to ensure the safety of its citizens.
+Is there any reason to think this is 
 
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
