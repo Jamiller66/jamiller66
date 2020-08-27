@@ -8,10 +8,11 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-On March 18th 2020, California Governor Gavin Newsom declared that his **model** indicated that 56% of California’s population, or 25.5 million people, would be infected with COVID-19 over the next eight-week period. While the numbers (fortunately) did not meet the forecast of his **model**, the doomsday headline no doubt contributed to fear, unease and restlessness from California citizens. And it is easy to see why.  Let's assume (for arguments sake) the average citizen reads that headline. I believe he or she is likely thinking two things;
+On March 18th 2020, California Governor Gavin Newsom declared that his **model** indicated that 56% of California’s population, or 25.5 million people, would be infected with COVID-19 over the next eight-week period. While the numbers (fortunately) did not meet the forecast of his **model**, the doomsday headline no doubt contributed to fear, unease and restlessness among California citizens. And it is easy to see why.  Let's assume (for arguments sake) the average citizen reads that headline. I believe he or she is likely thinking two things;
 1. Government agencies have well-trained statisticians and real-time access to comprehensive data on cases, hosptializations and deaths. 
 2. The govenment wants use this data for decision making to ensure the safety of its citizens.
-Is there any reason to think this is 
+
+So as the **model** (and a multitude of others) proves over time to be substantially inacccurate, is there any doubt as to why statistical models and forecasts are increasingly scoffed and ignored by much of our population?
 
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
