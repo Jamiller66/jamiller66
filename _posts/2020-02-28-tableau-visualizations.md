@@ -10,7 +10,7 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 **Here is some bold text**
 
-Here is a link to the [Florida Crime Visualization](www.CuriosityData.com/CrimeMap.html)
+Here is a link to the [Florida Crime Visualization](www.jamiller66.github.io/CrimeMap.html)
 
 ## Here is a secondary heading
 
