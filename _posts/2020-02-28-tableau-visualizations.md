@@ -6,15 +6,11 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+I have been spending some time familiarizing myself with Tableau 2020.2 and thought I'd take a look at per capita crime rates in the State of Florida over the last few years.  I was able to gather multiple spreadsheets (1 per year for 2019, 2018 and 2017) from the FDLE website (https://www.fdle.state.fl.us/FSAC/Data-Statistics/UCR-Offense-Data.aspx) I chose to join the data and rank the counties with respect to **rates** of traditional criminal felonies (Murder, Rape, Burglary, Robbery, Larceny, Motor Vehicle Theft). As a Floridian, I've always read about the crime in South Florida (Miami-Dade, Broward and Palm Beach counties) but I wondered if they are truly the most dangerous based on population. While sparsely populated there are some counties with higher incidents of crime per 100K residents. Should we all avoid Bay County? 
 
-**Here is some bold text**
+Here is a link to my [Florida Crime Visualization](http://CuriosityData.com/CrimeMap.html)
 
-Here is a link to the [Florida Crime Visualization](http://CuriosityData.com/CrimeMap.html)
 
-## Here is a secondary heading
-
-Here's a useless table:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
