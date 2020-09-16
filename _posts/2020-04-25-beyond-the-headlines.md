@@ -16,8 +16,7 @@ So as the **model** (and a multitude of others) proves over time to be substanti
 
 The journalist in me recognizes the need to be "first and loud" when it comes to selling news, but let's set aside the journalistic intent and delve into why early modeling using inconsistent data is likely more damaging than admitting "We don't know enough yet".
 
-The issue with models is that in most cases there is little **transparency** as to how a model is built. Models (even AI models) are generally driven from
-
+The issue with models is that in most cases there is little **transparency** as to how a model is built. Models (even AI models) are generally driven from;
 **1.** manual inputs (parameters, rules, thresholds, etc.) and/or
 **2.** Pattern recognition and refinement. 
 
