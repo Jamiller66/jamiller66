@@ -17,8 +17,8 @@ So as the **model** (and a multitude of others) proves over time to be substanti
 The journalist in me recognizes the need to be "first and loud" when it comes to selling news, but let's set aside the journalistic intent and delve into why early modeling using inconsistent data is likely more damaging than admitting "We don't know enough yet".
 
 The issue with models is that in most cases there is little **transparency** as to how a model is built. Models (even AI models) are generally driven from 
-- **1.** manual inputs (parameters, rules, thresholds, etc.) and/or
-- **2.** Pattern recognition and refinement. 
+**1.** manual inputs (parameters, rules, thresholds, etc.) and/or
+**2.** Pattern recognition and refinement. 
 
 I would contend that in the case of California's early declaration on the forecast of COVID-19, the challenge of transparency stems from issues with both. First, with respect to inputs, models are generally built with Subject Matter Experts (SMEs) that have deep knowledge and experience with the factors supporting the model's intent. I'm not sure on March 18th, there were any organizations (i.e. CDC, NIH, WHO) that were experts on COVID-19. In fact I find it less likely that any individual medical professionals in California knew enough to accurately declare specific figures on variables like probable infection rates, most critical comorbidities, viral load implications, etc. 
 
