@@ -10,14 +10,16 @@ I learned that it is a combination of data and storytelling that inspires and mo
 1. Thought everything through and that data can soundly answer any questions they have, and;
 2. They can "see" what the future looks like after the technology change is deployed 
 
-### my history
+### Professional Background
 
-Under construction
+I am a charismatic senior technologist with multi-industry, fortune 500 consulting experience in Business Intelligence, Exploratory Data Analysis (EDA), synthesizing data-centric information, building analytical models and developing visually compelling stories based on data. I have a track record of effectively relating disparate operational data to reveal unique insights and effectively communicating findings & recommendations to both technical and non-technical audiences.
 
-During a 20+ year career consulting for Fortune 500 organizations, I led countless analysis efforts using Data including:
+I've led numerous efforts across the Data Analytics landscape including:
 - Business Case Development
 - Financial Modeling
 - Business Unit & Corporate P&L Budgeting
 - Marketing Analytics
 - Sales Forecasting
 - Resource Growth models
+
+Most recently I have been blending Data Science and domain expertise in Pharmacy Therapeutics to determine Real World Evidence (RWE) for Pharmacologic Therapies and Therapy Management protocols.
