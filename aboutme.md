@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About Jeff
-subtitle: The Art and Science of Data  
+title: About Jeff 
 ---
 
 ##### "Without data, you're just another person with an opinion."  - W. Edward Demming
