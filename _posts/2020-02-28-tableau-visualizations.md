@@ -2,7 +2,7 @@
 layout: post
 title: Tableau Visualizations
 subtitle: Some recent work using the Tableau platform
-tags: [test]
+tags: [tableau, visualization, crime]
 comments: true
 ---
 
