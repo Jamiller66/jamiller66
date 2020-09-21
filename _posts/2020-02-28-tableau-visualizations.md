@@ -12,12 +12,6 @@ Here is a link to my [Florida Crime Visualization](http://CuriosityData.com/Crim
 
 
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
 How about a yummy crepe?
