@@ -11,6 +11,7 @@ I learned that it is a combination of data and storytelling that inspires and mo
 1. Thought everything through and that data can soundly answer any questions they have, and;
 2. They can "see" what the future looks like after the technology change is deployed 
 
+<hr>
 ### Professional Background
 
 I am a charismatic senior technologist with multi-industry, fortune 500 consulting experience in Business Intelligence, Exploratory Data Analysis (EDA), synthesizing data-centric information, building analytical models and developing visually compelling stories based on data. I have a track record of effectively relating disparate operational data to reveal unique insights and effectively communicating findings & recommendations to both technical and non-technical audiences.
