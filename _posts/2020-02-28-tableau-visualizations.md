@@ -12,6 +12,9 @@ I have been spending some time familiarizing myself with Tableau 2020.3 and thou
 Here is a link to my [Florida Crime Visualization](http://CuriosityData.com/CrimeMap.html)
 
 ##### Specialty Pharmacy Dispensing Dashboard
-This is a sample of a dashboard I originally created in R-Shiny for a client showing their desired key basic drug dispensing metrics. This specialty pharmacy was run by a Health System that was embarking on an outreach program to their employed specialty physicians. Specialty physicians treat many patients with chronic diseases using long-term drug therapy with specialized administration requirements and complex dosing schedules. The goal of the program was to sell the benefits of the pharmacy and its proactive patient and therapy management programs to these physicians so that they would have a familiarty with a Specialty Pharmacy for patients. 
-One important metric was tracking scripts that were received by the pharmacy compared to other physicians practicing in the same specialty. 
+This is a sample of a dashboard I originally created in R-Shiny for a client showing their desired key basic drug dispensing metrics. This Specialty Pharmacy was run by a Health System that was embarking on an outreach program to their employed specialty physicians. Specialty physicians treat many patients with chronic diseases using long-term drug therapy with specialized administration requirements and complex dosing schedules. The goal of the program was to sell the benefits of the pharmacy and its proactive patient and therapy management programs to these physicians so that they would have a familiarty with a Specialty Pharmacy to recommend for patients. 
+
+One of the main goals of the dashboard was tracking the script volume of all physicians within a specific specialty (i.e Oncology, Gastroenterology, Rheumatology, etc.) This allowed insight on which physicians were not sending many scripts to the Specialty Pharmacy in order to target the education and outreach.
+
+Here is a link to my [Florida Crime Visualization](http://CuriosityData.com/CrimeMap.html)
 
