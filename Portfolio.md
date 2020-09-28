@@ -1,4 +1,4 @@
 ---
 layout: page
-title: About Jeff
+title: Examples of Analysis Work
 ---
