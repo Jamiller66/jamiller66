@@ -16,5 +16,5 @@ This is a sample of a dashboard I originally created in R-Shiny for a client sho
 
 One of the main goals of the dashboard was tracking the script volume of all physicians within a specific specialty (i.e Oncology, Gastroenterology, Rheumatology, etc.) This allowed insight on which physicians were not sending many scripts to the Specialty Pharmacy in order to target the education and outreach.
 
-Here is a link to my [Florida Crime Visualization](http://CuriosityData.com/CrimeMap.html)
+Here is a link to my [Specialty Pharmacy Dashboard](http://CuriosityData.com/PharmacyDashboard.html)
 
