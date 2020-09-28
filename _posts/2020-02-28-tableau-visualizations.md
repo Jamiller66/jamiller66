@@ -12,61 +12,6 @@ I have been spending some time familiarizing myself with Tableau 2020.3 and thou
 Here is a link to my [Florida Crime Visualization](http://CuriosityData.com/CrimeMap.html)
 
 ##### Specialty Pharmacy Dispensing Dashboard
-This is a sample of a dashboard I originally created in R- Shiny for a client showing their desired key basic drug dispensing metrics. This pharmacy was run by a Health System that was embarking on an outreach program to their employed specialty physicians to sell the benefits of their specialtyb pharmacy. One important metric was tracking scripts that 
+This is a sample of a dashboard I originally created in R-Shiny for a client showing their desired key basic drug dispensing metrics. This specialty pharmacy was run by a Health System that was embarking on an outreach program to their employed specialty physicians. Specialty physicians treat many patients with chronic diseases using long-term drug therapy with specialized administration requirements and complex dosing schedules. The goal of the program was to sell the benefits of the pharmacy and its proactive patient and therapy management programs to these physicians so that they would have a familiarty with a Specialty Pharmacy for patients. 
+One important metric was tracking scripts that were received by the pharmacy compared to other physicians practicing in the same specialty. 
 
-
-
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
