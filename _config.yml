@@ -16,7 +16,8 @@ navbar-links:
   Resources:
     - What is DataScience: "DSDefined"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Portfolio of Analysis Work: "Portfolio"
+  Portfolio of Analysis Work:
+    - Linear Regression: "DSDefined"
 
 # --- Logo --- #
 
