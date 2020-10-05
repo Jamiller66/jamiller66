@@ -34,5 +34,5 @@ Most recently I have been blending Data Science and domain expertise in Specialt
 
 <br>
 
-![Tools](assets/tools.png)
+![Tools](assets/img/tools.png)
 
