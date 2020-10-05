@@ -29,3 +29,10 @@ I've led numerous efforts across the Data Analytics landscape including:
 - Resource Growth models
 
 Most recently I have been blending Data Science and domain expertise in Specialty Pharmacy Therapeutics to determine Real World Evidence (RWE) for Pharmacologic Therapies and Therapy Management protocols.
+
+### Tools and Technologies
+
+<br>
+
+![Tools](assets/tools.png)
+
