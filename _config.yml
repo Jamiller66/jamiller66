@@ -18,6 +18,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Portfolio of Analysis Work:
     - Linear Regression: "LinearRegression"
+    - Random Forest: "Random-Forest"
 
 # --- Logo --- #
 
